@@ -5,7 +5,7 @@ import Echarts from "./pages/Echarts";
 function App() {
   return (
     <div className="App">
-      123
+      1234567
       <Echarts></Echarts>
     </div>
   );
